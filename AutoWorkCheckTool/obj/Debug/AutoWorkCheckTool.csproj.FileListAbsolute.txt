@@ -1,0 +1,12 @@
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\bin\Debug\AutoWorkCheckTool.exe.config
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\bin\Debug\AutoWorkCheckTool.exe
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\bin\Debug\AutoWorkCheckTool.pdb
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.csprojResolveAssemblyReference.cache
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.Form1.resources
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.Properties.Resources.resources
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.csproj.GenerateResource.Cache
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.csproj.CoreCompileInputs.cache
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.exe
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\obj\Debug\AutoWorkCheckTool.pdb
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\bin\Debug\WindowsInput.dll
+C:\Users\ChoiSin\source\repos\AutoWorkCheckTool\AutoWorkCheckTool\bin\Debug\WindowsInput.xml
